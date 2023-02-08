@@ -1,0 +1,72 @@
+.head_ariya{
+  border-top: 2px solid rgb(134, 129, 129);
+}
+.bode_button button{
+    margin-top: 300px;
+    background-color: aquamarine;
+    border-radius: 20px;
+}
+.bode_button p{
+  color: rgb(235, 3, 100);
+  font-size: 20px;
+  margin-top: 30px;
+}
+
+.logo_section ul{
+  text-align: end;
+  
+}
+.logo_section ul li{
+   list-style: none;
+   display: inline;
+}
+ .logo_section ul li a{
+   color: black;
+} 
+.body_text{
+  margin-top: 200px;
+  color: rgb(111, 86, 214);
+}
+.backgroubd_img{
+  background-image: url(img/background_img1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 355px;
+  width: 100%;
+  opacity: 92%;
+}
+.share{
+  text-align: end;
+  font-size: 30px;
+  color: aquamarine;
+}
+.fa{
+  color: rgb(148, 32, 32);
+ 
+}
+.abut_us img{
+  width: 10%;
+  height: 2%;
+  border-radius: 48px;
+  
+}
+.abut_us button{
+  border: 0px;
+}
+.abut_us{
+  margin-top: 50px;
+  text-align: end;
+  padding-bottom: 37px;
+}
+.odear_manu {
+  text-align: end;
+  margin-top: 30px;
+  
+}
+.odear_manu button{
+  border-radius: 20px;
+  margin-top: 250px;
+  background-color: rgb(26, 114, 85);
+  color: rgb(250, 3, 3);
+}
+
